@@ -1,2 +1,3 @@
-# estudos html
- curso git e github
+# Estudos sobre html.
+ Curso git e github!
+ 
